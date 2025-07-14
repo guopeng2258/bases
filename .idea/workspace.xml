@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29119b0-bdd3-483c-91ec-e68067e4e748" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/init.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base-mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base-mybatis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/base-mybatis/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a29119b0-bdd3-483c-91ec-e68067e4e748" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752472986241</updated>
-      <workItem from="1752472987601" duration="3292000" />
+      <workItem from="1752472987601" duration="3508000" />
     </task>
     <servers />
   </component>
