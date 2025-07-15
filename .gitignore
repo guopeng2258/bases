@@ -32,3 +32,13 @@ cursorrules*
 .cursor/
 
 
+# IDEA
+.idea/
+
+# Maven
+.mvn/
+
+# Eclipse
+.classpath
+.project
+.settings/
